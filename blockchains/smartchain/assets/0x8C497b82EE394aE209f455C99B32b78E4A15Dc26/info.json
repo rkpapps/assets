@@ -1,0 +1,11 @@
+{
+    "name": "DGP",
+    "website": "https://scamily.io/token",
+    "description": "DGP is the native token for the project Simple.",
+    "explorer": "https://bscscan.com/token/0x8C497b82EE394aE209f455C99B32b78E4A15Dc26",
+    "type": "BEP20",
+    "symbol": "DGP",
+    "decimals": 10,
+    "status": "active",
+    "id": "0x8C497b82EE394aE209f455C99B32b78E4A15Dc26"
+}
