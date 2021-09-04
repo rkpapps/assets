@@ -2,7 +2,7 @@
     "name": "DGP",
     "type": "BEP20",
     "symbol": "DGP",
-    "decimals": 4,
+    "decimals": 9,
     "website": "",
     "description": ".",
     "explorer": "https://bscscan.com/token/0x8c497b82ee394ae209f455c99b32b78e4a15dc26",
